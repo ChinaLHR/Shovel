@@ -1,3 +1,4 @@
 [submodule "shovel-kubernetes-helm-devops"]
 	path = shovel-kubernetes-helm-devops
 	url = git@github.com:ChinaLHR/shovel-kubernetes-helm-devops.git
+	branch = main
