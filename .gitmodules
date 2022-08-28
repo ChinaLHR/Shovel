@@ -1,0 +1,6 @@
+[submodule "shovel-kubernetes-helm-devops"]
+	path = shovel-kubernetes-helm-devops
+	url = https://github.com/ChinaLHR/shovel-kubernetes-helm-devops
+[submodule "shovel-kustomize-argocd-gitops"]
+	path = shovel-kustomize-argocd-gitops
+	url = https://github.com/ChinaLHR/shovel-kustomize-argocd-gitops
