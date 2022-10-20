@@ -6,3 +6,7 @@
 	path = shovel-kustomize-argocd-gitops
 	url = https://github.com/ChinaLHR/shovel-kustomize-argocd-gitops
 	branch = main
+[submodule "shovel-progressive-delivery-argo-rollouts"]
+	path = shovel-progressive-delivery-argo-rollouts
+	url = https://github.com/ChinaLHR/shovel-progressive-delivery-argo-rollouts
+	branch = main

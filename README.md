@@ -8,3 +8,7 @@ Jenkins-Kubernetes-Docker-Helm CI/CD 实践
 - shovel-kustomize-argocd-gitops
 
 Gitlab-ArgoCD-Kubernetes-Docker-Kustomize GitOps实践
+
+- shovel-progressive-delivery-argo-rollouts
+
+Argo Rollouts 渐进式交付实践
