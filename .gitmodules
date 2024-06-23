@@ -10,3 +10,6 @@
 	path = shovel-progressive-delivery-argo-rollouts
 	url = https://github.com/ChinaLHR/shovel-progressive-delivery-argo-rollouts
 	branch = main
+[submodule "shovel-modern-data-stack"]
+	path = shovel-modern-data-stack
+	url = https://github.com/ChinaLHR/shovel-modern-data-stack
