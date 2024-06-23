@@ -13,3 +13,4 @@
 [submodule "shovel-modern-data-stack"]
 	path = shovel-modern-data-stack
 	url = https://github.com/ChinaLHR/shovel-modern-data-stack
+	branch = main
